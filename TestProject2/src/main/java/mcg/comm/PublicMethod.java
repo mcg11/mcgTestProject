@@ -8,4 +8,7 @@ public class PublicMethod {
 	public void hhhhh(){
 		System.out.println("我是来捣乱测试的");
 	}
+	public void publicMethod3(){
+		System.out.println("我是方法3");
+	}
 }
