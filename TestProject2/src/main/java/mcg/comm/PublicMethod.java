@@ -11,4 +11,7 @@ public class PublicMethod {
 	public void publicMethod3(){
 		System.out.println("我是方法3");
 	}
+	public void publicMethod2(String str){
+		System.out.println("这是公共方法2");
+	}
 }
