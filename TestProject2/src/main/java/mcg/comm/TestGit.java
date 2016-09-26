@@ -1,6 +1,10 @@
 package main.java.mcg.comm;
 
 public class TestGit {
-
-	//dd
+	public static void main(String[] args) {
+		for(int i=0;i<10;i++){
+			System.out.println("i"+i);
+		}
+	}
+	
 }
