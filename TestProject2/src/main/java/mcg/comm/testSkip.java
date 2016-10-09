@@ -5,4 +5,7 @@ public class testSkip {
 		System.out.println("我是dev");
 	}
 
+	public void testtest(){
+		System.out.println("我是test");
+	}
 }
