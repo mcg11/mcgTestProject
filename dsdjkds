@@ -1,0 +1,73 @@
+[33mcommit 09e0919a7f4e0bb9c226b52a9246cf9d66e2a92a[m
+Author: mcg11 <machunge2010@163.com>
+Date:   Thu Sep 22 15:02:47 2016 +0800
+
+    Revert "为啥不显示更新的呢"
+    
+    This reverts commit 79cc94b94e5a83b1cab8b9cdaf8995c0358292f2.
+
+[33mcommit 79cc94b94e5a83b1cab8b9cdaf8995c0358292f2[m
+Author: mcg11 <machunge2010@163.com>
+Date:   Wed Sep 21 11:03:07 2016 +0800
+
+    为啥不显示更新的呢
+
+[33mcommit 3c187438576d628b298db5a31cfe25e8ea8a10d9[m
+Author: mcg11 <machunge2010@163.com>
+Date:   Wed Sep 21 10:51:15 2016 +0800
+
+    我是dev
+
+[33mcommit 3852c709c8ccd596d618a20ee2130a285df95480[m
+Author: mcg11 <machunge2010@163.com>
+Date:   Wed Sep 21 10:38:25 2016 +0800
+
+    dev
+
+[33mcommit 63b424480377eaa05832e6ba2e084b8b6930e4b8[m
+Author: hehaifeng <hehaifeng@roo.bo>
+Date:   Tue Sep 20 10:33:59 2016 +0800
+
+    试试
+
+[33mcommit 462268bf88acf468cacb191a4f487f07515b506f[m
+Author: mcg11 <machunge2010@163.com>
+Date:   Mon Sep 19 18:11:43 2016 +0800
+
+    测试数据3
+
+[33mcommit 4e6573b98698c2d68448995da8a1e880db87b455[m
+Author: mcg11 <machunge2010@163.com>
+Date:   Mon Sep 19 18:09:24 2016 +0800
+
+    测试数据2
+
+[33mcommit e55fc7f0e2cb57db1ca9a9102cfe746ec8887f01[m
+Author: mcg11 <machunge2010@163.com>
+Date:   Mon Sep 19 18:04:11 2016 +0800
+
+    测试数据
+
+[33mcommit 942de2a62799ee197b763f43a14e735c1571809d[m
+Author: mcg11 <machunge2010@163.com>
+Date:   Mon Sep 19 17:54:04 2016 +0800
+
+    对对对
+
+[33mcommit e801eace3f3921db423d85e16be701388fc0a4a6[m
+Author: mcg11 <machunge2010@163.com>
+Date:   Sun Sep 18 12:08:39 2016 +0800
+
+    测试
+
+[33mcommit 9bc712e791b3dc9cdd671d657ad58a826f87f441[m
+Author: mcg11 <machunge2010@163.com>
+Date:   Sun Sep 18 11:10:25 2016 +0800
+
+    测试
+
+[33mcommit 8955e295c01e486410ee01392783815604394ced[m
+Author: mcg11 <machunge2010@163.com>
+Date:   Sun Sep 18 11:01:19 2016 +0800
+
+    测试
