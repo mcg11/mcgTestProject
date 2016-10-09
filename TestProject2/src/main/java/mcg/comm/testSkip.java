@@ -5,6 +5,11 @@ public class testSkip {
 		System.out.println("我是dev");
 	}
 
+	public void  dev2(){
+		System.out.println("dev2");
+	}
+	
+
 	public void testtest(){
 		System.out.println("我是test");
 	}
