@@ -8,4 +8,11 @@ public class testSkip {
 	public void testtest(){
 		System.out.println("我是test");
 	}
+	public void  dev2(){
+		System.out.println("dev2");
+	}
+	public void  dev3(){
+		System.out.println("dev3");
+	}
+
 }
